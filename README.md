@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Alarcon</h1>
 <h3 align="center">An aspiring, passionate Full-Stack developer 💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroA54&label=Profile%20views&color=0e75b6&style=flat" alt="PedroA54" /> </p>
 
 - 🔭 I’m currently working on **learning TypeScript and Next.js**
 
