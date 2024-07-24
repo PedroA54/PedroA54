@@ -8,7 +8,5 @@
 
 - 📝 I regularly write articles on [https://dev.to/pedroa54](https://dev.to/pedroa54)
 
-- 📫 How to reach me **pedroa54@icloud.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/pedroalarcon54/](https://www.linkedin.com/in/pedroalarcon54/)
 
