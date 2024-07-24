@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pedro Alarcon</h1>
-<h3 align="center">An aspiring, passionate Full-Stack developer 💻</h3>
+<h1 align="center"> Hello, I'm Pedro Alarcon </h1>
+<h3 align="center"> Passionate Full-Stack developer 💻 </h3>
 
 
 - 🔭 I’m currently working on **learning TypeScript and Next.js**
